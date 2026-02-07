@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ツインテールは20歳まで♡",
+  "base_artist": "きゅるりんってしてみて",
+  "createdAt": "2026-02-07T20:57:55.772396Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツインテールは20歳まで♡",
+      "artist": "きゅるりんってしてみて",
+      "has_synced": false,
+      "path": "select/pl_01_ツインテールは20歳まで♡_きゅるりんってしてみて.txt"
+    }
+  ]
+}
